@@ -13,8 +13,8 @@
 
 
 - ✍ You can find my resume here [[Resume]]
-- 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on open source
+- 🌱 I've completed a Data Science bootcamp at Dibimbing
+- 👯 I’m currently building recommendation system using streamlit
 - 📫 Reach out to me : izlalasa17@gmail.com
 
 <br>
